@@ -15,7 +15,7 @@
 	    <relativePath/>
 	</parent>
 	<groupId>com.mrinal.otel</groupId>
-	<artifactId>app1</artifactId>
+	<artifactId>otel-kafka-producer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>app1</name>
 	<description>Demo project for OTEL</description>
